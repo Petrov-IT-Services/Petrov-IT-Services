@@ -1,5 +1,3 @@
-# Petrov IT Services LLC
-
 Welcome to the official GitHub organization for **Petrov IT Services LLC**. 
 
 We are an early-stage IT consulting and custom software engineering agency founded in **August 2026**. Our company delivers high-end B2B software engineering, solution architecture design, and technical consulting services for international corporate clients and fast-growing tech startups.
@@ -16,6 +14,6 @@ Our engineering team specializes in building scalable, enterprise-grade applicat
 ## 🛠 Status & Operations
 * **Current Stage:** Core development environment setup & client acquisition phase.
 * **Founded:** August 2026.
-* **Inquiries & Business Operations:** info@petrovitservices.com
+* **Inquiries & Business Operations:** <info@petrovitservices.com>
 
 *We are actively establishing our internal toolchain and baseline architecture templates to provide top-tier development standards for our upcoming commercial contracts.*
