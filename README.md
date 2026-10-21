@@ -1,3 +1,8 @@
+---
+theme: jekyll-theme-cayman
+title: Petrov IT Services LLC
+---
+
 Welcome to the official GitHub organization for **Petrov IT Services LLC**. 
 
 We are an early-stage software company specializing in advanced B2B technology solutions. While providing high-end technical consulting and custom software engineering services to fund our operations, our primary focus is the development of our flagship proprietary AI SaaS platform.
